@@ -21,7 +21,3 @@ test_baseline.py: Set up the evaluation metrics and two baseline models
 LSTM_test.ipynb: Load a trained LSTM Seq2seq Model and evaluate it
 
 LED_test.ipynb: Load a trained LED Model and evaluate it
-
-To run above codes, the github respository provides more information
-
-Trained LSTM Seq2seq Model and LED Model are slso 
